@@ -1,0 +1,101 @@
+/*
+-------------------------------------------------------------------
+Late Blooming Effects Studio website page animation stylesheet
+-------------------------------------------------------------------
+*/
+@media only screen and (min-width:1441px) and (max-width:2560px)
+{
+	.webHeader	{
+					margin:0px 872px;
+				}
+	.webFooter	{
+					margin:0px 872px;
+				}
+	.webSection	{
+					margin:0px 872px;
+				}
+}
+
+@media only screen and (min-width:1025px) and (max-width:1440px)
+{
+	.webHeader	{
+					margin:0px 310px;
+				}
+	.webFooter	{
+					margin:0px 310px;
+				}
+	.webSection	{
+					margin:0px 310px;
+				}
+}
+
+@media only screen and (min-width:769px) and (max-width:1024px)
+{
+	.webHeader	{
+					margin:0px 105px;
+				}
+	.webFooter	{
+					margin:0px 105px;
+				}
+	.webSection	{
+					margin:0px 105px;
+				}
+}
+
+@media handheld and (min-width:426px) and (max-width:768px),
+		 screen and (min-width:426px) and (max-width:768px),
+		 screen and (min-device-width:426px) and (max-device-width:768px)
+{
+	.webHeader	{
+					margin:0px 95px;
+				}
+	.webFooter	{
+					margin:0px 95px;
+				}
+	.webSection	{
+					margin:0px 95px;
+				}
+}
+@media handheld and (min-width:376px) and (max-width:425px)
+		 screen and (min-width:376px) and (max-width:425px),
+		 screen and (min-device-width:376px) and (max-device-width:425px)
+{
+	.webHeader	{
+					margin:0px 85px;
+				}
+	.webFooter	{
+					margin:0px 85px;
+				}
+	.webSection	{
+					margin:0px 85px;
+				}
+}
+@media handheld and (min-width:321px) and (max-width:375px),
+		 screen and (min-width:321px) and (max-width:375px),
+		 screen and (min-device-width:321px) and (max-device-width:375px)
+{
+	.webHeader	{
+					margin:0px 85px;
+				}
+	.webFooter	{
+					margin:0px 85px;
+				}
+	.webSection	{
+					margin:0px 85px;
+				}
+}
+
+@media handheld and (max-width:320px),
+		 screen and	(max-width:320px),
+		 screen and	(max-device-width:320px)
+{
+	.webHeader	{
+					margin:0px 80px;
+				}
+	.webFooter	{
+					margin:0px 80px;
+				}
+	.webSection	{
+					margin:0px 80px;
+				}
+}
