@@ -278,7 +278,7 @@ li				{
 					border-bottom-right-radius:10px;
 					display:inline block;
 					height:50px;
-					margin:0px 250px;
+					margin:0px 255px;
 					margin-top:2px;
 					position:relative;
 					text-align:center;
@@ -291,7 +291,7 @@ li				{
 					border-top-right-radius:10px;
 					display:inline block;
 					height:100px;
-					margin:0px 250px;
+					margin:0px 255px;
 					text-align:center;
 					position:relative;
 					width:800px;
@@ -301,7 +301,7 @@ li				{
 					background-color:#004FFF;
 					display:inline block;
 					height:400px;
-					margin:0px 250px;
+					margin:0px 255px;
 					margin-top:2px;
 					overflow:hidden;
 					text-align:center;
