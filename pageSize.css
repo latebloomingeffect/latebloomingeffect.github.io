@@ -46,56 +46,672 @@ Late Blooming Effects Studio website page animation stylesheet
 		 screen and (min-width:426px) and (max-width:768px),
 		 screen and (min-device-width:426px) and (max-device-width:768px)
 {
-	.webHeader	{
-					margin:0px 95px;
-				}
-	.webFooter	{
-					margin:0px 95px;
-				}
-	.webSection	{
-					margin:0px 95px;
-				}
+	h1				{
+						font-size:42px;
+						margin:0px 45px;
+						padding:10px 25px;
+						width:660px;
+						top:15px;
+					}
+	h2				{
+						font-size:34px;
+						margin:0px 45px;
+						padding:10px 150px;
+						width:410px;
+						top:25px;
+					}
+	p				{
+						font-size:34px;
+					}				
+	#bookChapter1	{
+						font-size:24px;
+						margin:0px 43px;
+						width:690px;
+					}
+	#bookList		{	
+						font-size:34px;
+						margin:0px 45px;
+						height:380px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#bookMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#bookName		{
+						font-size:18.3px;
+						top:-38px;
+						width:380px;
+					}
+	#bookNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#bookNo			{
+						font-size:18.3px;
+						width:80px;
+					}
+	#bookPageUpdate	{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#bookProgress	{
+						font-size:18.3px;
+						left:492px;
+						top:-82px;
+						width:130px;
+					}
+	#bookTitle		{
+						font-size:30px;
+						margin:0px 45px;
+						padding:10px 10px;
+						width:690px;
+					}
+	#bookUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#gameList		{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#gameMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#gameNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#gamePageUpdate	{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#gameUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#menuLink		{
+						font-size:34px;
+						margin:0px 0px;
+						padding:10px 255px;
+						top:80px;
+						width:0px;
+					}
+	#welcomeMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	.copyright		{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:16px;
+						width:690px;
+					}
+	.paragraph		{
+						font-size:18.3px;
+						margin:4px 40px;
+						padding:10px 10px;
+						top:3px;
+					}
+	.webHeader		{
+						margin:0px 80px;
+						height:193px;
+						width:800px;
+					}
+	.webFooter		{
+						margin:0px 80px;
+						height:83px;
+						width:800px;
+					}
+	.webSection		{
+						margin:0px 80px;
+						height:1123px;
+						width:800px;
+					}
 }
 @media handheld and (min-width:376px) and (max-width:425px)
 		 screen and (min-width:376px) and (max-width:425px),
 		 screen and (min-device-width:376px) and (max-device-width:425px)
 {
-	.webHeader	{
-					margin:0px 85px;
-				}
-	.webFooter	{
-					margin:0px 85px;
-				}
-	.webSection	{
-					margin:0px 85px;
-				}
+	h1				{
+						font-size:42px;
+						margin:0px 45px;
+						padding:10px 25px;
+						width:660px;
+						top:15px;
+					}
+	h2				{
+						font-size:34px;
+						margin:0px 45px;
+						padding:10px 150px;
+						width:410px;
+						top:25px;
+					}
+	p				{
+						font-size:34px;
+					}				
+	#bookChapter1	{
+						font-size:24px;
+						margin:0px 43px;
+						width:690px;
+					}
+	#bookList		{	
+						font-size:34px;
+						margin:0px 45px;
+						height:380px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#bookMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#bookName		{
+						font-size:18.3px;
+						top:-38px;
+						width:380px;
+					}
+	#bookNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#bookNo			{
+						font-size:18.3px;
+						width:80px;
+					}
+	#bookPageUpdate	{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#bookProgress	{
+						font-size:18.3px;
+						left:492px;
+						top:-82px;
+						width:130px;
+					}
+	#bookTitle		{
+						font-size:30px;
+						margin:0px 45px;
+						padding:10px 10px;
+						width:690px;
+					}
+	#bookUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#gameList		{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#gameMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#gameNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#gamePageUpdate	{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#gameUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#menuLink		{
+						font-size:34px;
+						margin:0px 0px;
+						padding:10px 255px;
+						top:80px;
+						width:0px;
+					}
+	#welcomeMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	.copyright		{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:16px;
+						width:690px;
+					}
+	.paragraph		{
+						font-size:18.3px;
+						margin:4px 40px;
+						padding:10px 10px;
+						top:3px;
+					}
+	.webHeader		{
+						margin:0px 80px;
+						height:193px;
+						width:800px;
+					}
+	.webFooter		{
+						margin:0px 80px;
+						height:83px;
+						width:800px;
+					}
+	.webSection		{
+						margin:0px 80px;
+						height:1123px;
+						width:800px;
+					}
 }
 @media handheld and (min-width:321px) and (max-width:375px),
 		 screen and (min-width:321px) and (max-width:375px),
 		 screen and (min-device-width:321px) and (max-device-width:375px)
 {
-	.webHeader	{
-					margin:0px 85px;
-				}
-	.webFooter	{
-					margin:0px 85px;
-				}
-	.webSection	{
-					margin:0px 85px;
-				}
+	h1				{
+						font-size:42px;
+						margin:0px 45px;
+						padding:10px 25px;
+						width:660px;
+						top:15px;
+					}
+	h2				{
+						font-size:34px;
+						margin:0px 45px;
+						padding:10px 150px;
+						width:410px;
+						top:25px;
+					}
+	p				{
+						font-size:34px;
+					}				
+	#bookChapter1	{
+						font-size:24px;
+						margin:0px 43px;
+						width:690px;
+					}
+	#bookList		{	
+						font-size:34px;
+						margin:0px 45px;
+						height:380px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#bookMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#bookName		{
+						font-size:18.3px;
+						top:-38px;
+						width:380px;
+					}
+	#bookNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#bookNo			{
+						font-size:18.3px;
+						width:80px;
+					}
+	#bookPageUpdate	{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#bookProgress	{
+						font-size:18.3px;
+						left:492px;
+						top:-82px;
+						width:130px;
+					}
+	#bookTitle		{
+						font-size:30px;
+						margin:0px 45px;
+						padding:10px 10px;
+						width:690px;
+					}
+	#bookUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#gameList		{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#gameMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#gameNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#gamePageUpdate	{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#gameUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#menuLink		{
+						font-size:34px;
+						margin:0px 0px;
+						padding:10px 255px;
+						top:80px;
+						width:0px;
+					}
+	#welcomeMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	.copyright		{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:16px;
+						width:690px;
+					}
+	.paragraph		{
+						font-size:18.3px;
+						margin:4px 40px;
+						padding:10px 10px;
+						top:3px;
+					}
+	.webHeader		{
+						margin:0px 80px;
+						height:193px;
+						width:800px;
+					}
+	.webFooter		{
+						margin:0px 80px;
+						height:83px;
+						width:800px;
+					}
+	.webSection		{
+						margin:0px 80px;
+						height:1123px;
+						width:800px;
+					}
 }
 
 @media handheld and (max-width:320px),
 		 screen and	(max-width:320px),
 		 screen and	(max-device-width:320px)
 {
-	.webHeader	{
-					margin:0px 80px;
-				}
-	.webFooter	{
-					margin:0px 80px;
-				}
-	.webSection	{
-					margin:0px 80px;
-				}
+	h1				{
+						font-size:42px;
+						margin:0px 45px;
+						padding:10px 25px;
+						width:660px;
+						top:15px;
+					}
+	h2				{
+						font-size:34px;
+						margin:0px 45px;
+						padding:10px 150px;
+						width:410px;
+						top:25px;
+					}
+	p				{
+						font-size:34px;
+					}				
+	#bookChapter1	{
+						font-size:24px;
+						margin:0px 43px;
+						width:690px;
+					}
+	#bookList		{	
+						font-size:34px;
+						margin:0px 45px;
+						height:380px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#bookMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#bookName		{
+						font-size:18.3px;
+						top:-38px;
+						width:380px;
+					}
+	#bookNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#bookNo			{
+						font-size:18.3px;
+						width:80px;
+					}
+	#bookPageUpdate	{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#bookProgress	{
+						font-size:18.3px;
+						left:492px;
+						top:-82px;
+						width:130px;
+					}
+	#bookTitle		{
+						font-size:30px;
+						margin:0px 45px;
+						padding:10px 10px;
+						width:690px;
+					}
+	#bookUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#gameList		{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:2px 10px;
+						top:50px;
+						width:690px;
+					}
+	#gameMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	#gameNav		{
+						font-size:34px;
+						display:block;
+						margin:0px 45px;
+						margin-top:4px;
+						position:relative;
+						width:710px;
+					}
+	#gamePageUpdate	{
+						font-size:34px;
+						height:380px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:65px;
+						width:690px;
+					}
+	#gameUpdate		{
+						font-size:14px;
+						height:380px;
+						margin:0px 45px;
+						padding:0px 10px;
+						top:30px;
+						width:690px;
+					}
+	#menuLink		{
+						font-size:34px;
+						margin:0px 0px;
+						padding:10px 255px;
+						top:80px;
+						width:0px;
+					}
+	#welcomeMessage	{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:25px;
+						width:690px;
+					}
+	.copyright		{
+						font-size:18.3px;
+						margin:0px 45px;
+						padding:10px 10px;
+						top:16px;
+						width:690px;
+					}
+	.paragraph		{
+						font-size:18.3px;
+						margin:4px 40px;
+						padding:10px 10px;
+						top:3px;
+					}
+	.webHeader		{
+						margin:0px 80px;
+						height:193px;
+						width:800px;
+					}
+	.webFooter		{
+						margin:0px 80px;
+						height:83px;
+						width:800px;
+					}
+	.webSection		{
+						margin:0px 80px;
+						height:1123px;
+						width:800px;
+					}
 }
