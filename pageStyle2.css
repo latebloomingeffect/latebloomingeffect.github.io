@@ -1,0 +1,287 @@
+/*
+-------------------------------------------------------------------
+Late Blooming Effects Studio website page stylesheet 1
+-------------------------------------------------------------------
+*/
+
+#bookPage1Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:7px;
+					border-top-right-radius:7px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:0px;
+				}
+#bookPage2Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:32px;
+				}
+#bookPage3Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:64px;
+				}
+#bookPage4Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:96px;
+				}
+#bookPage5Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:128px;
+				}
+#bookPage6Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:160px;
+				}
+#bookPage7Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:192px;
+				}
+#bookPage8Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:224px;
+				}
+#bookPage9Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:0px;
+					border-bottom-right-radius:0px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:256px;
+				}
+#bookPage10Bg	{
+					background-color:#004FCC;
+					border-bottom-left-radius:7px;
+					border-bottom-right-radius:7px;
+					border-top-left-radius:0px;
+					border-top-right-radius:0px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:288px;
+				}
+
+#page1			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:2px;
+				}
+#page2			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:34px;
+				}
+#page3			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:66px;
+				}
+#page4			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:98px;
+				}
+#page5			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:130px;
+				}
+#page6			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:162px;
+				}
+#page7			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:194px;
+				}
+#page8			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:226px;
+				}
+#page9			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:258px;
+				}
+#page10			{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:26px;
+					margin:0px 155px;
+					opacity:0;
+					position:absolute;
+					width:480px;
+					top:290px;
+				}

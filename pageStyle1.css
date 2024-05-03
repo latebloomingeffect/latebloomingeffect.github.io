@@ -1,0 +1,338 @@
+/*
+-------------------------------------------------------------------
+Late Blooming Effects Studio website page stylesheet 1
+-------------------------------------------------------------------
+*/
+
+a				{
+					color:#FFFFFF;
+					text-decoration:none;
+				}
+body			{
+					background-color:#00004F;
+				}
+button			{
+					background-color:#008FFF;
+					border-radius:10px;
+					color:#FFFFFF;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+				}					
+h1				{
+					background-color:#004FCC;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:28px;
+					margin:0px 155px;
+					padding:1px 25px;
+					position:relative;
+					width:430px;
+					top:10px;
+				}
+h2				{
+					background-color:#004FCC;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:19px;
+					margin:0px 155px;
+					position:relative;
+					top:14px;
+					width:480px;
+				}
+h3				{
+					border-radius:4px;
+					margin:1px 2px;
+					padding:0px 0px;
+				}	
+h4				{
+					border-radius:4px;
+					height:20px;
+					margin:2px 2px;
+					padding:1px 0px;
+				}
+li				{
+					display:none;
+					list-style-type:none;
+				}
+p				{
+					border-radius:4px;
+					display:inline block;
+					font-size:14px;
+					margin:2px 1px;
+					padding:1px 0px;
+				}
+
+#bookChapter1Bg	{
+					background-color:#004FCC;
+					border-radius:4px;
+					display:none;
+					height:32px;
+					margin:0px 25px;
+					opacity:0;
+					position:absolute;
+					width:750px;
+					top:0px;
+				}
+#bookDescription	{
+						color:#FFFFFF;
+						font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+						font-size:13px;
+					}
+#bookFooter		{
+					background-color:#004FFF;
+					border-bottom-left-radius:4px;
+					border-bottom-right-radius:4px;
+					display:inline block;
+					height:50px;
+					margin:0px 255px;
+					margin-top:2px;
+					position:relative;
+					text-align:center;
+					top:-22px;
+					width:800px;
+					z-index:0;
+				}
+#bookHeader		{
+					background-color:#004FFF;
+					border-top-left-radius:4px;
+					border-top-right-radius:4px;
+					display:inline block;
+					height:80px;
+					margin:0px 255px;
+					text-align:center;
+					position:relative;
+					width:800px;
+				}
+#bookList		{
+					background-color:#004FCC;
+					color:#FFFFFF;
+					border-radius:4px;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:12.3px;
+					margin:0px 155px;
+					padding:2px 10px;
+					position:relative;
+					top:50px;
+					width:460px;
+				}
+#bookMenu		{
+					margin:0px -245px;
+					position:absolute;
+					top:470px;
+				}
+#bookMessage	{
+					background-color:#004FCC;
+					color:#FFFFFF;
+					border-radius:4px;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:12.3px;
+					margin:0px 155px;
+					padding:2px 46px;
+					position:relative;
+					top:45px;
+					width:390px;
+				}
+#bookName		{
+					background-color:#003FCC;
+					display:inline block;
+					font-size:12.3px;
+					left:81px;
+					position:relative;
+					top:-20px;
+					width:250px;
+				}
+#bookNo			{
+					background-color:#003FCC;
+					display:inline block;
+					font-size:12.3px;
+					position:relative;
+					width:80px;
+				}
+#bookNav		{
+					background-color:#004FCC;
+					color:#FFFFFF;
+					border-radius:4px;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					margin-left:155px;
+					margin-top:4px;
+					position:absolute;
+					width:480px;
+				}
+#bookNav:hover li	{
+						display:block;
+					}
+#bookOverview	{
+					background-color:#004FCC;
+					border-radius:4px;
+					height:430px;
+					margin:0px 155px;
+					position:absolute;
+					top:35px;
+					width:480px;
+				}
+#bookPageUpdate	{
+					background-color:#004FCC;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:14px;
+					height:110px;
+					margin:0px 155px;
+					padding:0px 10px;
+					position:relative;
+					top:55px;
+					width:460px;
+				}
+#bookProgress	{
+					background-color:#003FCC;
+					display:inline block;
+					font-size:12.3px;
+					left:332px;
+					position:relative;
+					top:-40px;
+					width:130px;
+				}
+#bookSection	{
+					background-color:#004FFF;
+					display:inline block;
+					height:480px;
+					margin:2px 255px;
+					position:relative;
+					text-align:center;
+					width:800px;
+					top:-20px;
+					z-index:1;
+				}
+#bookTitle		{
+					background-color:#004FCC;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:20px;
+					opacity:1;
+					position:relative;
+					margin:0px 155px;
+					width:480px;
+					top:0px;
+				}
+
+#chapter1		{
+					background-color:#004FFF;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:none;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:16px;
+					margin:0px 155px;
+					opacity:0;
+					padding:2px 5px;
+					position:absolute;
+					top:3px;
+				}
+.copyright		{
+					background-color:#004FCC;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:13.3px;
+					margin:0px 155px;
+					padding:0px 10px;
+					position:relative;
+					top:16px;
+					width:460px;
+				}
+
+.menuLink		{
+					background-color:#004FCC;
+					color:#FFFFFF;
+					border-radius:4px;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:13px;
+					margin:0px 155px;
+					padding:2px 10px;
+					position:relative;
+					top:60px;
+					width:460px;
+				}
+
+#siteHeader		{
+					background-color:#004FCC;
+					border-radius:4px;
+					color:#FFFFFF;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:28px;
+					margin:0px 155px;
+					opacity:1;
+					padding:1px 25px;
+					position:relative;
+					width:430px;
+					top:10px;
+				}
+
+#testEffect		{
+					margin:0px;
+					padding:0px;
+				}
+
+.webFooter		{	
+					background-color:#004FFF;
+					border-bottom-left-radius:4px;
+					border-bottom-right-radius:4px;
+					display:inline block;
+					height:50px;
+					left:-50px;
+					margin:0px 255px;
+					margin-top:2px;
+					position:relative;
+					text-align:center;
+					top:-2px;
+					width:800px;
+				}
+.webHeader		{
+					background-color:#004FFF;
+					border-top-left-radius:4px;
+					border-top-right-radius:4px;
+					display:inline block;
+					height:100px;
+					left:-50px;
+					margin:0px 255px;
+					text-align:center;
+					position:relative;
+					width:800px;
+					top:2px;
+				}
+.webSection		{
+					background-color:#004FFF;
+					display:inline block;
+					height:400px;
+					left:-50px;
+					margin:2px 255px;
+					position:relative;
+					text-align:center;
+					width:800px;
+				}
+#welcomeMessage	{
+					background-color:#004FCC;
+					color:#FFFFFF;
+					border-radius:4px;
+					display:inline block;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:12.3px;
+					margin:0px 155px;
+					padding:2px 10px;
+					position:relative;
+					top:45px;
+					width:460px;
+				}			

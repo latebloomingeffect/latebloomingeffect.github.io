@@ -1,0 +1,152 @@
+
+The Late Blooming Effects Studio Website Code Documentation
+
+Table of Content
+
+1.Index Page
+	1.1.HTML code for the index page
+	1.2.CSS code for the index page
+	1.3.JavaScript for the index page
+2.Games Page
+	2.1.HTML code for the games page
+	2.2.CSS code for the games page
+	2.3.JavaScript code for the games page
+3.Books Page
+	3.1.HTML code for the books page
+	3.2.CSS code for the books page
+	3.3.JavaScript for the books page
+
+The Index Page
+
+1.1.The HTML code for the index page
+
+The index page uses the following HTML elements for its structure:
+	1.The <header>	element
+	
+	  The <header> element contains the following elements that are
+	  used for the headings found in the index page:
+	  1.1.The <h1> element
+	  1.2.The <h2> element
+	  
+	2.The <section> element
+	
+	  The <section> element contains the following elements that are
+	  used for navigation, a welcome message and updates of contents
+	  found in the index page:
+	  
+	  2.1.The <nav> element with a "gameNav" id attribute
+	  2.2.The <nav> element with a "bookNav" id attribute
+	  2.3.The <p> element
+	  2.4.The <section> element with a "gameUpdate" id attribute
+	  2.5.The <section> element with a "bookUpdate" id attribute
+	  
+	3.The <footer>	element
+	
+	  The <footer> element contains the following element that is
+	  used for displaying website protection information found in
+	  the index page:
+	  
+	  3.1.The <p> element
+
+1.2.The CSS code for the index page
+	
+	The index page will have the following CSS rules applied to its
+	for its presentation according to the following HTML elements:
+	
+	1.The body element 
+	  
+	  This element will have the following rules
+	  
+	  1.1.A background color with a color value of #00004F 
+	  
+	  1.2.A background image with a -webkit-gradient property value
+	      with the following sub values
+		  linear gradient type, left top start direction, right top
+		  end direction and color-stops with the following sub values
+		  
+		  %0		color1		%2 .17	color2		%4 .34	color3
+		  %6 .52 	color4		%8 .69	color5		%10.86	color6
+		  %13.04	color7		%15.21	color8		%17.39	color9
+		  %19.56	color10		%21.73	color11		%23.91	color12
+		  %26.08	color13		%28.26	color14		%30.43	color14
+		  %32.60	color15		%34.78	color16		%36.95	color17
+		  %39.13	color18		%41.30	color19		%43.47	color20
+		  %45.65	color21		%47.82	color22		%50.00	color23
+		  %52.17	color24		%54.34	color26		%56.52	color27
+		  %58.69	color28		%60.86	color29		%63.04	color30
+		  %65.21	color31		%67.39	color32		%69.56	color33
+		  %71.73	color34		%73.91	color35		%76.08	color36
+		  %78.26	color37		%80.43	color38		%82.60	color39
+		  %84.78	color40		%86.95	color41		%89.13	color42
+		  %91.30	color43		%93.47	color44		%95.65	color45
+		  %97.82	color46		%100	color47
+		
+	  1.3.A -webkit-animation-delay with a value of 0s
+	  1.4.A -webkit-animation-direction with a value of normal
+	  1.5.A -webkit-animation-duration with a value of 8s
+	  1.6.A -webkit-animation-iteration-count with a value of 1
+	  1.7.A -webkit-animation-name with a value of sweepThrough
+	  1.8.A -webkit-animation-timing-function with a value of linear
+	  
+	  1.9.A -webkit-keyframes called sweepThrough that uses the 
+		  following percentages to animate the -webkit-gradient, 
+		  which is the value of the background image mentioned above
+		  
+		  %0.00					%0.63				%1.27
+		  %1.91					%2.54				%3.18
+		  %3.82					%4.45				%5.09		
+		  %5.73					%6.36				%7.00
+		  %7.64					%8.28				%8.91
+		  %9.55					%10.19				%10.82
+		  %11.26				%12.10				%12.73
+		  %13.37				%14.01				%14.64
+		  %15.28				%15.92				%16.56
+		  %17.19				%17.83				%18.47
+		  %19.10				%19.74				%20.38
+		  %21.01				%21.65				%22.29
+		  %22.92				%23.56				%24.20
+		  %24.84				%25.47				%26.11
+		  %26.75				%27.28				%28.02
+		  %28.66				%29.29				%29.93
+		  %30.57				%31.21				%31.84
+		  %32.48				%33.12				%33.75
+		  %34.39				%35.03				%35.66
+		  %36.30				%36.94				%37.57
+		  %38.21				%38.85				%39.49				
+		  %40.12				%40.76				%41.40
+		  %42.03				%42.67				%43.31	
+		  %43.94				%44.58				%45.22
+		  %45.85				%46.49				%47.13
+		  %47.77				%48.40				%49.04
+		  %49.68				%50.31				%50.95
+		  %51.59				%52.22				%52.86
+		  %53.50				%54.14				%54.77
+		  %55.41				%56.05				%56.68
+		  %57.32				%57.96				%58.59
+		  %59.23				%59.87				%60.50
+		  %61.14				%61.78				%62.42
+		  %63.05				%63.69				%64.33
+		  %64.96				%65.60				%66.24
+		  %66.87				%67.51				%68.15
+		  %68.78				%69.42				%70.06
+		  %70.70				%71.33				%71.97
+		  %72.61				%73.24				%73.88
+		  %74.52				%75.15				%75.79
+		  %76.43				%77.07				%77.70
+		  %78.34				%78.98				%79.61
+		  %80.25				%80.89				%81.52
+		  %82.16				%82.80				%83.43
+		  %84.07				%84.71				%85.35
+		  %85.98				%86.62				%87.26
+		  %87.89				%88.53				%89.17
+		  %89.80				%90.44				%91.08
+		  %91.71				%92.35				%92.99
+		  %93.63				%94.26				%94.90
+		  %95.54				%96.17				%96.81
+		  %97.45				%98.08				%98.72
+		  %99.36				%100
+
+1.3.The JavaScript code for the index page
+
+The Games Page
+The Books Page

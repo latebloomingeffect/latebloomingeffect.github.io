@@ -1,0 +1,464 @@
+/*
+-------------------------------------------------------------------
+Late Blooming Effects Studio website para stylesheet
+-------------------------------------------------------------------
+*/
+
+#bookParagraphBg1	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg2	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg3	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg4	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg5	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg6	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg7	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg8	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg9	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+#bookParagraphBg10	{
+						background-color:#004FCC;
+						border-radius:7px;
+						display:none;
+						height:486px;
+						margin:0px 25px;
+						opacity:0;
+						position:absolute;
+						width:750px;
+						top:0px;
+					}
+
+.bookParagraph	{
+					background-color:#004FFF;
+					border-radius:7px;
+					color:#FFFFFF;
+					font-family:"Lucida Calligraphy","Brush Script MT","Lucida Handwriting",cursive;
+					font-size:12px;
+					margin:0px 110px;
+					padding:3px 5px;
+					width:550px;
+				}
+
+#bookParagraph1-1	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph1-2	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:96px;
+					}
+#bookParagraph1-3	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:184px;
+					}
+#bookParagraph1-4	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:272px;
+					}
+#bookParagraph1-5	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:376px;
+					}
+
+#bookParagraph2-1	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph2-2	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:96px;
+					}
+#bookParagraph2-3	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:184px;
+					}
+#bookParagraph2-4	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:272px;
+					}
+#bookParagraph2-5	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:360px;
+					}
+
+#bookParagraph3-1	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph3-2	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:96px;
+					}
+#bookParagraph3-3	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:184px;
+					}
+#bookParagraph3-4	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:240px;
+					}
+#bookParagraph3-5	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:328px;
+					}
+
+#bookParagraph4-1	{
+						display:none;
+						margin:0px 90px;
+						opacity:0;
+						position:absolute;
+						width:600px;
+						top:8px;
+					}
+#bookParagraph4-2	{
+						display:none;
+						margin:0px 90px;
+						opacity:0;
+						position:absolute;
+						width:600px;
+						top:96px;
+					}
+#bookParagraph4-3	{
+						display:none;
+						margin:0px 90px;
+						opacity:0;
+						padding:3px 30px;
+						position:absolute;
+						top:184px;
+					}
+#bookParagraph4-4	{
+						display:none;
+						margin:0px 90px;
+						opacity:0;
+						padding:3px 30px;
+						position:absolute;
+						top:272px;
+					}
+#bookParagraph4-5	{
+						display:none;
+						margin:0px 90px;
+						opacity:0;
+						padding:3px 30px;
+						position:absolute;
+						top:376px;
+					}
+
+#bookParagraph5-1	{
+						display:none;
+						margin:0px 75px;
+						opacity:0;
+						padding:3px 25px;
+						position:absolute;
+						top:8px;
+						width:600px;
+					}
+#bookParagraph5-2	{
+						display:none;
+						margin:0px 75px;
+						opacity:0;
+						padding:3px 25px;
+						position:absolute;
+						top:96px;
+						width:600px;
+					}
+#bookParagraph5-3	{
+						display:none;
+						margin:0px 75px;
+						opacity:0;
+						padding:3px 15px;
+						position:absolute;
+						top:184px;
+						width:620px;
+					}
+#bookParagraph5-4	{
+						display:none;
+						margin:0px 75px;
+						opacity:0;
+						padding:3px 15px;
+						position:absolute;
+						top:272px;
+						width:620px;
+					}
+#bookParagraph5-5	{
+						display:none;
+						margin:0px 75px;
+						opacity:0;
+						padding:3px 15px;
+						position:absolute;
+						top:360px;
+						width:620px;
+					}
+
+#bookParagraph6-1	{
+						display:none;
+						margin:0px 97px;
+						opacity:0;
+						padding:3px 20px;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph6-2	{
+						display:none;
+						margin:0px 97px;
+						opacity:0;
+						padding:3px 20px;
+						position:absolute;
+						top:96px;
+					}
+#bookParagraph6-3	{
+						display:none;
+						margin:0px 97px;
+						opacity:0;
+						position:absolute;
+						top:200px;
+						width:580px;
+					}
+#bookParagraph6-4	{
+						display:none;
+						margin:0px 97px;
+						opacity:0;
+						padding:3px 20px;
+						position:absolute;
+						top:288px;
+					}
+#bookParagraph6-5	{
+						display:none;
+						margin:0px 97px;
+						opacity:0;
+						padding:3px 20px;
+						position:absolute;
+						top:376px;
+					}
+
+#bookParagraph7-1	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph7-2	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:112px;
+					}
+#bookParagraph7-3	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:200px;
+					}
+#bookParagraph7-4	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:304px;
+					}
+#bookParagraph7-5	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:376px;
+					}
+
+#bookParagraph8-1	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph8-2	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:96px;
+					}
+#bookParagraph8-3	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:200px;
+					}
+#bookParagraph8-4	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:288px;
+					}
+#bookParagraph8-5	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:376px;
+					}
+
+#bookParagraph9-1	{
+						display:none;
+						margin:0px 70px;
+						opacity:0;
+						position:absolute;
+						top:8px;
+						width:650px;
+					}
+#bookParagraph9-2	{
+						display:none;
+						margin:0px 70px;
+						opacity:0;
+						position:absolute;
+						top:112px;
+						width:650px;
+					}
+#bookParagraph9-3	{
+						display:none;
+						margin:0px 70px;
+						opacity:0;
+						position:absolute;
+						top:200px;
+						width:650px;
+					}
+#bookParagraph9-4	{
+						display:none;
+						margin:0px 70px;
+						opacity:0;
+						position:absolute;
+						top:304px;
+						width:650px;
+					}
+#bookParagraph9-5	{
+						display:none;
+						margin:0px 70px;
+						opacity:0;
+						position:absolute;
+						top:392px;
+						width:650px;
+					}
+
+#bookParagraph10-1	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:8px;
+					}
+#bookParagraph10-2	{
+						display:none;
+						opacity:0;
+						position:absolute;
+						top:112px;
+					}
